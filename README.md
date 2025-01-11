@@ -1,2 +1,2 @@
 # Wedding_website_template
-A template created for a wedding.
+A template created for a wedding invite.
